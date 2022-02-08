@@ -42,6 +42,7 @@
 - Cookie和Session教程：链接: https://pan.baidu.com/s/1irBBvsUFzlOcmAQ5CmpAtg  密码: kmur
 - JDBC教程：链接: https://pan.baidu.com/s/1Lc47o88vUs8Fabg5si2dpA 提取码: 05ec 
 - AJAX和Json教程：链接: https://pan.baidu.com/s/1c2TnmpAjZ_Qj4W3-SJsvIQ  密码: 8c30
+- Java web 综合项目：链接: https://pan.baidu.com/s/16kHL45w13Ic3iY6APZX9mg 提取码: rdm1 
 
 10、MySQL数据库教程：链接: https://pan.baidu.com/s/1K3WA2ugnZeq07A4KYKXHig  密码: k3uf
 
