@@ -15,6 +15,8 @@
 
 ### 2 视频教程类学习资源
 
+👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？](https://zhuanlan.zhihu.com/p/392712685) （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！
+
 #### Java相关
 
 1、Java基础：链接: https://pan.baidu.com/s/1pFrpqXAo_cdfdcf_DLGYDQ  密码: d3de
